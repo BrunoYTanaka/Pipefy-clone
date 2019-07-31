@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse é projeto foi feito seguindo a aula apresentada no canal Rocketseat [https://www.youtube.com/watch?v=awRtgpRsdTQ]. O projeto dessa aula foi um clone do pipefy utilizando React.
 
 ## Available Scripts
 
